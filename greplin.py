@@ -77,7 +77,34 @@ def sum_of_primes(number):
 
 if __name__ == '__main__':
 
-    longest_palindrome("Fourscoreandsevenyearsagoour" + "faathersbroughtforthonthiscontainentanewnat" + "ionconceivedinzLibertyanddedicatedtotheprop" + "ositionthatallmenarecreatedequalNowweareeng" + "agedinagreahtcivilwartestingwhetherthatnapt" + "ionoranynartionsoconceivedandsodedicatedcan" + "longendureWeareqmetonagreatbattlefiemldoftz" + "hatwarWehavecometodedicpateaportionofthatfi" + "eldasafinalrestingplaceforthosewhoheregavet" + "heirlivesthatthatnationmightliveItisaltoget" + "herfangandproperthatweshoulddothisButinalar" + "gersensewecannotdedicatewecannotconsecratew" + "ecannothallowthisgroundThebravelmenlivingan" + "ddeadwhostruggledherehaveconsecrateditfarab" + "oveourpoorponwertoaddordetractTgheworldadsw" + "filllittlenotlenorlongrememberwhatwesayhere" + "butitcanneverforgetwhattheydidhereItisforus" + "thelivingrathertobededicatedheretotheulnfin" + "ishedworkwhichtheywhofoughtherehavethusfars" + "onoblyadvancedItisratherforustobeherededica" + "tedtothegreattdafskremainingbeforeusthatfro" + "mthesehonoreddeadwetakeincreaseddevotiontot" + "hatcauseforwhichtheygavethelastpfullmeasure" + "ofdevotionthatweherehighlyresolvethatthesed" + "eadshallnothavediedinvainthatthisnationunsd" + "erGodshallhaveanewbirthoffreedomandthatgove" + "rnmentofthepeoplebythepeopleforthepeoplesha" + "llnotperishfromtheearth")
+    longest_palindrome("Fourscoreandsevenyearsagoour" +
+                       "faathersbroughtforthonthiscontainentanewnat" +
+                       "ionconceivedinzLibertyanddedicatedtotheprop" +
+                       "ositionthatallmenarecreatedequalNowweareeng" +
+                       "agedinagreahtcivilwartestingwhetherthatnapt" +
+                       "ionoranynartionsoconceivedandsodedicatedcan" +
+                       "longendureWeareqmetonagreatbattlefiemldoftz" +
+                       "hatwarWehavecometodedicpateaportionofthatfi" +
+                       "eldasafinalrestingplaceforthosewhoheregavet" +
+                       "heirlivesthatthatnationmightliveItisaltoget" +
+                       "herfangandproperthatweshoulddothisButinalar" +
+                       "gersensewecannotdedicatewecannotconsecratew" +
+                       "ecannothallowthisgroundThebravelmenlivingan" +
+                       "ddeadwhostruggledherehaveconsecrateditfarab" +
+                       "oveourpoorponwertoaddordetractTgheworldadsw" +
+                       "filllittlenotlenorlongrememberwhatwesayhere" +
+                       "butitcanneverforgetwhattheydidhereItisforus" +
+                       "thelivingrathertobededicatedheretotheulnfin" +
+                       "ishedworkwhichtheywhofoughtherehavethusfars" +
+                       "onoblyadvancedItisratherforustobeherededica" +
+                       "tedtothegreattdafskremainingbeforeusthatfro" +
+                       "mthesehonoreddeadwetakeincreaseddevotiontot" +
+                       "hatcauseforwhichtheygavethelastpfullmeasure" +
+                       "ofdevotionthatweherehighlyresolvethatthesed" +
+                       "eadshallnothavediedinvainthatthisnationunsd" +
+                       "erGodshallhaveanewbirthoffreedomandthatgove" +
+                       "rnmentofthepeoplebythepeopleforthepeoplesha" +
+                       "llnotperishfromtheearth")
     
     sum_of_primes(277000)
     num_subsets([3, 4, 9, 14, 15, 19, 28, 37, 47, 50, 54, 56, 59, 61, 70, 73, 78, 81, 92, 95, 97, 99])
